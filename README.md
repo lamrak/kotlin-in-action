@@ -2,4 +2,4 @@
 
 Kotlin in Action sessions.
 
-[Intro](/Intro.MD)
+[Intro](https://github.com/lamrak/kotlin-in-action/Intro.md)
