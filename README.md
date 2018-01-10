@@ -2,4 +2,4 @@
 
 Kotlin in Action sessions.
 
-[Intro](Intro.md)
+[Intro](/Intro.MD)
